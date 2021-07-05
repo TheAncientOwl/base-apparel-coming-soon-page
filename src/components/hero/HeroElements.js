@@ -8,6 +8,10 @@ export const Image = styled.img`
   object-fit: cover;
   object-position: top left;
 
+  @media (min-width: 1024px) {
+    width: 45%;
+  }
+
   @media (max-width: ${Breakpoints.mobile}) {
     width: 100%;
     height: 30em;
