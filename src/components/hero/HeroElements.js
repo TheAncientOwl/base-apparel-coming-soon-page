@@ -19,6 +19,7 @@ export const Image = styled.img`
     margin-top: 3em;
     object-fit: cover;
     object-position: top;
+    height: 20em;
   }
 
   @media (max-width: ${Breakpoints.mobile2}) {
