@@ -1,2 +1,0 @@
-(this["webpackJsonpbase-apparel-coming-soon-page"]=this["webpackJsonpbase-apparel-coming-soon-page"]||[]).push([[0],{10:function(e,n,t){"use strict";t.r(n);var o=t(1),c=t.n(o),r=t(3),i=t.n(r),s=t(0);function a(){return Object(s.jsx)("div",{style:{textAlign:"center",marginTop:"20x",fontSize:"25px"},children:"~ Hello world! ~"})}t(9);i.a.render(Object(s.jsx)(c.a.StrictMode,{children:Object(s.jsx)(a,{})}),document.getElementById("root"))},9:function(e,n,t){}},[[10,1,2]]]);
-//# sourceMappingURL=main.4270adc6.chunk.js.map
