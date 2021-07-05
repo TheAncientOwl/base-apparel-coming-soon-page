@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/base-apparel-coming-soon-page/static/css/main.d7f3c11c.chunk.css",
-    "main.js": "/base-apparel-coming-soon-page/static/js/main.4f74a78f.chunk.js",
-    "main.js.map": "/base-apparel-coming-soon-page/static/js/main.4f74a78f.chunk.js.map",
+    "main.js": "/base-apparel-coming-soon-page/static/js/main.55a904e6.chunk.js",
+    "main.js.map": "/base-apparel-coming-soon-page/static/js/main.55a904e6.chunk.js.map",
     "runtime-main.js": "/base-apparel-coming-soon-page/static/js/runtime-main.9b09afb5.js",
     "runtime-main.js.map": "/base-apparel-coming-soon-page/static/js/runtime-main.9b09afb5.js.map",
     "static/js/2.3296d10b.chunk.js": "/base-apparel-coming-soon-page/static/js/2.3296d10b.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.9b09afb5.js",
     "static/js/2.3296d10b.chunk.js",
     "static/css/main.d7f3c11c.chunk.css",
-    "static/js/main.4f74a78f.chunk.js"
+    "static/js/main.55a904e6.chunk.js"
   ]
 }
