@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/base-apparel-coming-soon-page/static/css/main.8be9312a.chunk.css",
+    "main.js": "/base-apparel-coming-soon-page/static/js/main.4270adc6.chunk.js",
+    "main.js.map": "/base-apparel-coming-soon-page/static/js/main.4270adc6.chunk.js.map",
+    "runtime-main.js": "/base-apparel-coming-soon-page/static/js/runtime-main.9b09afb5.js",
+    "runtime-main.js.map": "/base-apparel-coming-soon-page/static/js/runtime-main.9b09afb5.js.map",
+    "static/js/2.e1ff741b.chunk.js": "/base-apparel-coming-soon-page/static/js/2.e1ff741b.chunk.js",
+    "static/js/2.e1ff741b.chunk.js.map": "/base-apparel-coming-soon-page/static/js/2.e1ff741b.chunk.js.map",
+    "index.html": "/base-apparel-coming-soon-page/index.html",
+    "static/css/main.8be9312a.chunk.css.map": "/base-apparel-coming-soon-page/static/css/main.8be9312a.chunk.css.map",
+    "static/js/2.e1ff741b.chunk.js.LICENSE.txt": "/base-apparel-coming-soon-page/static/js/2.e1ff741b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b09afb5.js",
+    "static/js/2.e1ff741b.chunk.js",
+    "static/css/main.8be9312a.chunk.css",
+    "static/js/main.4270adc6.chunk.js"
+  ]
+}
